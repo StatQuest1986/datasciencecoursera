@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Scinentist's Toolbox Final Project
+Data Scientist's Toolbox Final Project
